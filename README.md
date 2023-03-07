@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Manjunath</h1>
+<h1 align="center">Hi 👋, I'm Neha Manjunath </h1>
 <h3 align="center">A passionate web developer based out of Bengaluru, India</h3>
 <img align="right" alt="Coding" width="400"  src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></img>
 
