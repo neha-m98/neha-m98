@@ -1,66 +1,54 @@
-# Hi 👋, I'm Neha Manjunath
+<h1 align="center">Hi 👋, I'm Neha Manjunath</h1>
+<h3 align="center">A passionate web developer based out of Bengaluru, India</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=neha-m98&label=Profile%20views&color=0e75b6&style=flat)
+<p align="center">
+  <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" />
+</p>
 
-## About Me
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neha-m98&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I'm a passionate web developer based out of Bengaluru, India. I have experience working with the MERN stack and Android development. Currently, I'm learning Spring Boot and Next.js. I enjoy building innovative and user-friendly applications that solve real-world problems.
+<p align="left">
+  <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>
+</p>
 
-## Connect with Me
+- 🌱 I’m currently learning **Spring Boot and Next.js**
+- 💬 Ask me about **MERN Stack and Android Development**
+- ⚡ **I love South Indian food**
 
-You can connect with me on:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/nehaamanjunath" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
-- LinkedIn: [Neha Manjunath](https://linkedin.com/in/nehaamanjunath)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
+  </a>
+  <!-- Add more icons here -->
+</p>
 
-## Languages and Tools
+<h3 align="left">Support:</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/neham1998">
+    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+</p>
 
-Here are some of the languages and tools I work with:
+<br><br><br><br>
 
-- Android
-- Angular
-- Babel
-- Bootstrap
-- C
-- CanvasJS
-- Clojure
-- C++
-- CSS3
-- Elixir
-- Erlang
-- Express.js
-- Figma
-- Firebase
-- GraphQL
-- HTML5
-- Java
-- JavaScript
-- Jest
-- Kotlin
-- Materialize
-- MATLAB
-- MongoDB
-- MySQL
-- Node.js
-- PostgreSQL
-- Postman
-- Python
-- PyTorch
-- React
-- Redux
-- TensorFlow
-- Webpack
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neha-m98&show_icons=true&layout=compact" alt="Top Languages" />
+</p>
 
-## Support
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-m98&show_icons=true" alt="GitHub Stats" />
+</p>
 
-If you like my work and would like to support me, you can buy me a coffee:
-
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/neham1998)
-
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neha-m98&show_icons=true&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=neha-m98&show_icons=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neha-m98)
-
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-m98" alt="GitHub Streak" />
+</p>
